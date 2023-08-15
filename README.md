@@ -1,1 +1,0 @@
-# GIS_Project_Wildfire_Risk_Italy
